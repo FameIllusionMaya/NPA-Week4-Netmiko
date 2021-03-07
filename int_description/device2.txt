@@ -17,8 +17,8 @@ cdp run
 int Gig0/2
 description connect to Gig0/0 of R2
 cdp run
-int Gig0/3
-description connect to Gig0/0 of R3
-cdp run
 int Gig1/1
 description connect to Gig0/0 of S2
+cdp run
+int Gig0/3
+description connect to Gig0/0 of R3
